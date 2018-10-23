@@ -1,0 +1,23 @@
+{
+  "name": "npmignore-example",
+  "version": "1.0.0",
+  "description": ".npmignore example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dral/npmignore-example.git"
+  },
+  "keywords": [
+    "npmignore",
+    "example"
+  ],
+  "author": "Draltan MARIN <moi@draltan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dral/npmignore-example/issues"
+  },
+  "homepage": "https://github.com/dral/npmignore-example#readme"
+}
